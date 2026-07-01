@@ -1,0 +1,60 @@
+# 📊 Analisis Data E-Commerce End-to-End
+
+## 📝 Deskripsi Proyek
+
+Proyek ini merupakan simulasi analisis data pada sebuah perusahaan e-commerce, di mana saya berperan sebagai **Data Analyst** yang bertugas mengubah data transaksi menjadi informasi yang dapat mendukung pengambilan keputusan bisnis.
+
+Analisis dilakukan untuk mengevaluasi performa penjualan, perilaku pelanggan, performa penjual, efisiensi proses pengiriman, metode pembayaran, serta tingkat kepuasan pelanggan. Tujuan utama proyek ini adalah mengidentifikasi permasalahan bisnis, menemukan peluang peningkatan kinerja, dan memberikan rekomendasi berbasis data kepada manajemen.
+
+Proses analisis mencakup pengolahan data menggunakan **SQL**, analisis data menggunakan **Excel** dan **Python**, serta pembuatan dashboard interaktif menggunakan **Tableau** agar hasil analisis mudah dipahami oleh pihak manajemen.
+
+Melalui proyek ini, dihasilkan berbagai insight mengenai tren penjualan, produk dan kategori dengan performa terbaik, perilaku pelanggan, kualitas layanan pengiriman, serta faktor-faktor yang memengaruhi kepuasan pelanggan. Seluruh hasil analisis digunakan sebagai dasar dalam menyusun rekomendasi strategis untuk meningkatkan penjualan, retensi pelanggan, dan efisiensi operasional perusahaan.
+
+---
+
+## 🎯 Tujuan Proyek
+
+- Menganalisis performa penjualan perusahaan dari waktu ke waktu.
+- Mengidentifikasi kategori produk dan wilayah dengan kontribusi penjualan tertinggi.
+- Menganalisis perilaku pelanggan dan tingkat retensi pelanggan.
+- Mengevaluasi performa penjual berdasarkan penjualan dan kepuasan pelanggan.
+- Mengukur efisiensi proses pengiriman dan tingkat keterlambatan.
+- Menganalisis metode pembayaran yang paling banyak digunakan pelanggan.
+- Mengidentifikasi faktor-faktor yang memengaruhi kepuasan pelanggan.
+- Menyusun dashboard interaktif sebagai alat bantu pengambilan keputusan.
+- Memberikan rekomendasi bisnis berdasarkan hasil analisis data.
+
+---
+
+## ❓ Permasalahan Bisnis
+
+Manajemen perusahaan ingin memahami faktor-faktor yang memengaruhi pertumbuhan penjualan, kepuasan pelanggan, dan efisiensi operasional. Meskipun perusahaan memiliki data transaksi yang besar, data tersebut belum dimanfaatkan secara optimal untuk mendukung pengambilan keputusan.
+
+Sebagai Data Analyst, saya bertugas mengolah data tersebut untuk menjawab beberapa pertanyaan bisnis berikut:
+
+- Bagaimana tren penjualan perusahaan dari waktu ke waktu?
+- Kategori produk apa yang memberikan kontribusi pendapatan terbesar?
+- Wilayah mana yang memiliki performa penjualan terbaik?
+- Bagaimana perilaku pelanggan dan tingkat pembelian ulang (repeat purchase)?
+- Seller mana yang memiliki performa terbaik dan terburuk?
+- Apakah keterlambatan pengiriman memengaruhi kepuasan pelanggan?
+- Metode pembayaran apa yang paling banyak digunakan?
+- Faktor apa saja yang memengaruhi rating pelanggan?
+- Rekomendasi apa yang dapat diberikan untuk meningkatkan kinerja bisnis?
+
+---
+
+## 🛠️ Tools yang Digunakan
+
+- PostgreSQL
+- SQL
+- Microsoft Excel
+- Python (Pandas, NumPy, Matplotlib)
+- Tableau
+- Git & GitHub
+
+---
+
+## 📈 Hasil yang Diharapkan
+
+Melalui analisis ini, perusahaan dapat memahami kondisi bisnis secara menyeluruh, mengidentifikasi peluang peningkatan penjualan, meningkatkan kepuasan pelanggan, mengoptimalkan proses operasional, serta mengambil keputusan yang lebih tepat berdasarkan data.
